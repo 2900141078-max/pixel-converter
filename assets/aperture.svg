@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>像素转换：六叶光圈与照片</title>
+  <rect x="0" y="0" width="256" height="256" rx="52" fill="#1A1E23"/>
+  <defs><clipPath id="aperture"><circle cx="128" cy="128" r="85"/></clipPath></defs>
+  <g clip-path="url(#aperture)"><path d="M128.00,79.00 L80.47,57.53 L165.26,51.60 L170.44,103.50 Z" fill="#D7DBDF" stroke="#1A1E23" stroke-width="5" stroke-linejoin="round"/><path d="M170.44,103.50 L165.26,51.60 L212.79,122.07 L170.44,152.50 Z" fill="#D7DBDF" stroke="#1A1E23" stroke-width="5" stroke-linejoin="round"/><path d="M170.44,152.50 L212.79,122.07 L175.53,198.47 L128.00,177.00 Z" fill="#D7DBDF" stroke="#1A1E23" stroke-width="5" stroke-linejoin="round"/><path d="M128.00,177.00 L175.53,198.47 L90.74,204.40 L85.56,152.50 Z" fill="#D7DBDF" stroke="#1A1E23" stroke-width="5" stroke-linejoin="round"/><path d="M85.56,152.50 L90.74,204.40 L43.21,133.93 L85.56,103.50 Z" fill="#D7DBDF" stroke="#1A1E23" stroke-width="5" stroke-linejoin="round"/><path d="M85.56,103.50 L43.21,133.93 L80.47,57.53 L128.00,79.00 Z" fill="#D7DBDF" stroke="#1A1E23" stroke-width="5" stroke-linejoin="round"/></g>
+  <circle cx="128" cy="128" r="89" fill="none" stroke="#D7DBDF" stroke-width="8"/>
+  <circle cx="128" cy="128" r="43" fill="#1A1E23" stroke="#D7DBDF" stroke-width="5"/>
+  <circle cx="111" cy="113" r="5" fill="#D7DBDF"/>
+  <path d="M101 147 L114 129 L123 139 L137 120 L155 147" fill="none" stroke="#D7DBDF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
